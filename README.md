@@ -1,2 +1,2 @@
 # abigalenielsen.github.io
-Abigale Nielsen person website
+Abigale Nielsen personal website
