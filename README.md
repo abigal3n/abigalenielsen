@@ -1,2 +1,2 @@
-# abigalenielsen.github.io
+# home
 Abigale Nielsen personal website
